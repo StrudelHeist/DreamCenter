@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamCenterApplication", "DreamCenterApplication\DreamCenterApplication.csproj", "{ED79E1C4-F6AC-4C49-9665-9563B2A262F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "..\CommonLib\CommonLib\CommonLib.csproj", "{0FF9A365-7B9E-4A8A-8381-18AE7AB0D252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLib", "SharedLib\SharedLib.csproj", "{6E38C82E-974E-4BF3-9153-14B3ECA15EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED79E1C4-F6AC-4C49-9665-9563B2A262F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED79E1C4-F6AC-4C49-9665-9563B2A262F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED79E1C4-F6AC-4C49-9665-9563B2A262F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED79E1C4-F6AC-4C49-9665-9563B2A262F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF9A365-7B9E-4A8A-8381-18AE7AB0D252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF9A365-7B9E-4A8A-8381-18AE7AB0D252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF9A365-7B9E-4A8A-8381-18AE7AB0D252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF9A365-7B9E-4A8A-8381-18AE7AB0D252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E38C82E-974E-4BF3-9153-14B3ECA15EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E38C82E-974E-4BF3-9153-14B3ECA15EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E38C82E-974E-4BF3-9153-14B3ECA15EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E38C82E-974E-4BF3-9153-14B3ECA15EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
